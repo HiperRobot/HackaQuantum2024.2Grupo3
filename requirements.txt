@@ -1,4 +1,5 @@
-pip install numpy
 pip install pandas
 pip install matplotlib
 pip install dask[complete]
+pip install sqlalchemy
+pip install streamlit
