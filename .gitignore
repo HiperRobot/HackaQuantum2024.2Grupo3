@@ -1,5 +1,9 @@
 *.zip
 *.csv
+<<<<<<< HEAD
 LoteInicial.csv
 Quali_20240601.csv
 Quali_20240602.csv
+=======
+*.parquet
+>>>>>>> 90ef29f1239b24a04e4810f3fbe7d9551c2c876f
